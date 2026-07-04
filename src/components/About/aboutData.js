@@ -14,7 +14,7 @@ export const stats = [
     color: "text-cyan-400",
   },
   {
-    number: "2+",
+    number: "3+",
     label: "Years Learning",
     icon: FaAward,
     color: "text-pink-400",

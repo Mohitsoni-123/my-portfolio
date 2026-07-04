@@ -52,7 +52,7 @@ export const projects = [
 
     technologies: ["React", "Tailwind", "Framer Motion"],
 
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/Mohitsoni-123/my-portfolio",
 
     demo: "https://portfolio-demo.vercel.app",
   },

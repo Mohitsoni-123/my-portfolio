@@ -87,7 +87,7 @@ const ProfileCard = () => {
           </h2>
 
           <p className="mt-2 text-gray-400">
-            Frontend Developer
+            Full Stack Developer
           </p>
 
         </div>

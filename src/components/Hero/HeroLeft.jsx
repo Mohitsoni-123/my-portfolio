@@ -72,20 +72,20 @@ const HeroLeft = () => {
         className="text-2xl md:text-3xl font-bold text-white"
       >
         <TypeAnimation
-          sequence={[
-            "Frontend Developer",
-            1800,
-            "React Developer",
-            1800,
-            "UI Designer",
-            1800,
-            "Problem Solver",
-            1800,
-          ]}
-          wrapper="span"
-          speed={50}
-          repeat={Infinity}
-        />
+  sequence={[
+    "Full Stack Developer",
+    1800,
+    "MERN Stack Developer",
+    1800,
+    "React Developer",
+    1800,
+    "Problem Solver",
+    1800,
+  ]}
+  wrapper="span"
+  speed={50}
+  repeat={Infinity}
+/>
       </motion.div>
 
       {/* Description */}
@@ -96,10 +96,7 @@ const HeroLeft = () => {
         transition={{ delay: 0.8 }}
         className="max-w-xl text-lg text-gray-400 leading-6"
       >
-        Passionate Full-Stack Developer dedicated to crafting modern,
-        responsive, and user-friendly web applications with React, Tailwind CSS,
-        and JavaScript. I love building beautiful digital experiences with clean
-        code.
+        Passionate Full Stack Developer specializing in the MERN Stack. I build modern, responsive, and scalable web applications using React, Node.js, Express.js, MongoDB, and Tailwind CSS. I enjoy solving real-world problems by creating high-quality, user-focused digital experiences.
       </motion.p>
 
       {/* Buttons */}
