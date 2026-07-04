@@ -54,6 +54,6 @@ export const projects = [
 
     github: "https://github.com/Mohitsoni-123/my-portfolio",
 
-    demo: "https://portfolio-demo.vercel.app",
+    demo: "https://my-portfolio-delta-six-shxfskifjy.vercel.app/",
   },
 ];
